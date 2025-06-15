@@ -58,24 +58,8 @@ This system eliminates the risk of:
 | **Solidity**      | Smart contract logic for storing/verifying hashes |
 | **Ethereum/Web3** | Blockchain interaction (e.g., via MetaMask) |
 | **Metamask**      | Wallet for connecting and signing transactions |
-| **Ganache/Testnet** | Local blockchain testing environment (if used) |
+| **Testnet**       | Local blockchain testing environment  |
 
----
-
-## 🛠️ Project Structure
-
-📁 project-root/
-│
-├── index.html           # Home page
-├── doctor.html          # Prescription upload (by doctor)
-├── patient.html         # View prescriptions
-├── pharmacy.html        # Verify prescription hash
-├── admin.html           # Role registration (optional)
-├── emergency.html       # Emergency personnel portal
-│
-├── style.css            # Common styling file
-├── contract.sol         # Solidity smart contract
-└── script.js            # JavaScript for interacting with contract
 
 # 🔗 Smart Contract (Solidity)
 The smart contract includes functions like:
@@ -136,7 +120,8 @@ Login as pharmacy, input hash to verify on-chain.
 MIT License
 
 # Author
-Developed by Abdulrehman,WafaAbbas,AbdulAhad
-RCET, UET Lahore Campus
+Developed by Abdulrehman,WafaAbbas,AbdulAhad,Zaman
+
 GitHub: TechWithAbdul
+
 
